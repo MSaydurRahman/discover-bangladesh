@@ -1,0 +1,14 @@
+.location-grand{
+    border: 1px solid rgba(55, 58, 48, 0.815);
+    border-radius: 5px;
+    width: 400px;
+    height: 150px;
+    background-color: rgba(113, 162, 167, 0.13);
+}
+.list{
+    border: 1px solid rgba(55, 58, 48, 0.815);
+    border-radius: 5px;
+    width: 400px;
+    margin-top: 5px;
+    background-color: rgba(113, 162, 167, 0.13);
+}

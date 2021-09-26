@@ -1,0 +1,45 @@
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+    width: 100%;
+}
+.header nav{
+    text-align: start;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: black;
+    line-height: 70px;
+}
+.header nav a{
+    text-decoration: none;
+    padding:15px;
+    font-size: 22px;
+    font-weight: 500; 
+    color: white;
+}
+.header nav a:hover{
+    background-color: rgba(255, 166, 0, 0.5);
+}
+.header-text{
+    width: 400px;
+    height: 25px;
+    border: 3px solid gray;
+    margin-left: 1100px;
+}
+.header-button{
+    background-color: #4CAF50; /* Green */
+    border: 3px solid green;
+    border-radius: 5px;
+    color: white;
+    padding: 6px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+.header-button:hover{
+    background-color: green;
+}
