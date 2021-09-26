@@ -10,7 +10,7 @@ const Cart = (props) => {
     return (
         <div>
             <div className="location-grand">
-                <h2>{element}Location Count: {props.cart.length}</h2>
+                <h2>{element}Location Added: {props.cart.length}</h2>
                 <h3 style={{ marginLeft: '25px' }}>Grand Total:${total}</h3>
             </div>
             <div className="list">
